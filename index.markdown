@@ -1,5 +1,8 @@
+---
 layout: home
 title: "Narrative Porfolio"
+---
+# Narrative Porfolio
 
 Content coming soon.
 
