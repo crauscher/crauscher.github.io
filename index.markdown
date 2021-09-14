@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Narrative Porfolio"
+title: {{ site.title }}
 ---
 # Narrative Porfolio
 
