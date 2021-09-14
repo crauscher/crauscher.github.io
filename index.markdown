@@ -1,8 +1,8 @@
 ---
 layout: default
-title: {{ site.title }}
+title: Home
 ---
-# Narrative Porfolio
+# Carl Rauscher's Narrative Porfolio
 
 Content coming soon.
 
